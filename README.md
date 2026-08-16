@@ -49,46 +49,19 @@ const char* LOGIN_PASS = "krishna";
 For your own deployment, **change the default credentials** before sharing or using the project.
 
 ---
-
-## 🚀 Installation
-
-### 1. Install Arduino IDE
-
-Install Arduino IDE and add ESP32 board support.
-
-### 2. Open the sketch
-
-Open the `.ino` file in Arduino IDE.
-
-### 3. Select your board
-
-For example:
-
-```text
-Tools → Board → ESP32 Arduino → ESP32 Dev Module
-```
-
-### 4. Select the COM port
+### 1. Select the COM port
 
 Connect your ESP32 using USB and select the correct port.
 
-### 5. Upload
+### Code Flash
+Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
 
-Click:
+### 2nd Step
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/bootloader.bin">bootloader.bin</a> → 0x1000
 
-```text
-Upload
-```
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/partitions.bin">partitions.bin</a> → 0x8000
 
-### 6. Open Serial Monitor
-
-Set the baud rate to:
-
-```text
-115200
-```
-
-The ESP32 will display its Access Point information.
+<a href="https://github.com/esp32king/Esp32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
 
 ---
 

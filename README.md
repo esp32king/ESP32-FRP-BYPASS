@@ -35,26 +35,12 @@ No additional hardware is required.
 
 ---
 
-## 📚 Libraries
-
-The project uses the following Arduino libraries:
-
-```text
-WiFi.h
-WebServer.h
-DNSServer.h
-```
-
-These are available with the ESP32 Arduino core.
-
----
-
 ## ⚙️ Configuration
 
 You can change the Wi-Fi name and login credentials near the top of the sketch:
 
 ```cpp
-const char* ssid = "Free WiFi";
+const char* ssid = "GodxShadow";
 
 const char* LOGIN_USER = "linuxndroid";
 const char* LOGIN_PASS = "krishna";

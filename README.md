@@ -9,7 +9,7 @@ The ESP32 creates its own Wi-Fi Access Point and redirects connected clients to 
 
 ---
 <img src="https://raw.githubusercontent.com/esp32king/ESP32-FRP-BYPASS/refs/heads/main/Files/Ss.jpg"></img>
-2
+
 <img src="https://raw.githubusercontent.com/esp32king/ESP32-FRP-BYPASS/refs/heads/main/Files/Ssss.jpg"></img>
 
 

@@ -57,11 +57,11 @@ Connect your ESP32 using USB and select the correct port.
 Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
 
 ### 2nd Step
-<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/bootloader.bin">bootloader.bin</a> → 0x1000
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/bootloader.bin">bootloader.bin</a> → 0x1000
 
-<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/partitions.bin">partitions.bin</a> → 0x8000
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/partition.bin">partitions.bin</a> → 0x8000
 
-<a href="https://github.com/esp32king/Esp32-FRP-BYPASS/releases/download/ESP32-FRP-BYPASS/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
 
 ---
 

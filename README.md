@@ -1,4 +1,4 @@
-# 📱ESP32-RFP-BYPASS-WITH-CAPTIVE-PORTAL
+# 📱ESP32-FRP-BYPASS-WITH-CAPTIVE-PORTAL
 
 
 A lightweight **ESP32 Wi-Fi Captive Portal** project designed for Android activity/intent testing in an authorized lab environment.

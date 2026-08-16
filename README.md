@@ -169,6 +169,8 @@ Also note that the login page uses HTTP rather than HTTPS, so credentials should
 
 Made with ❤️ by **@linuxndroid**
 
+Special thanks to HIRU ❤️
+
 GitHub:
 
 **https://instagram.com/krishna_upx61**

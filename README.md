@@ -1,4 +1,4 @@
-# ESP32-RFP-BYPASS
+# ESP32-RFP-BYPASS-WITH-CAPTIVE-PORTAL
 # 📱 ESP32 Android Activity Launcher — Captive Portal
 
 A lightweight **ESP32 Wi-Fi Captive Portal** project designed for Android activity/intent testing in an authorized lab environment.

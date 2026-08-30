@@ -175,7 +175,11 @@ Made with ❤️ by **@linuxndroid**
 
 Special thanks to HIRU ❤️
 
-GitHub:
+
+## 📹 Video Link
+https://youtube.com/shorts/mAdyU4vBJqI?si=vFh3LIRxTioDgS00
+
+*GitHub: https://github.com/esp32king*
 
 **https://instagram.com/krishna_upx61**
 

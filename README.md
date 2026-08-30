@@ -16,6 +16,8 @@ The ESP32 creates its own Wi-Fi Access Point and redirects connected clients to 
 
 <img src="https://raw.githubusercontent.com/esp32king/ESP32-FRP-BYPASS/refs/heads/main/Files/Ssss.jpg"></img>
 
+ 📹 Video Link
+https://youtube.com/shorts/mAdyU4vBJqI?si=vFh3LIRxTioDgS00
 
 ## ✨ Features
 
@@ -176,8 +178,7 @@ Made with ❤️ by **@linuxndroid**
 Special thanks to HIRU ❤️
 
 
-## 📹 Video Link
-https://youtube.com/shorts/mAdyU4vBJqI?si=vFh3LIRxTioDgS00
+
 
 *GitHub: https://github.com/esp32king*
 

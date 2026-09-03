@@ -72,6 +72,8 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a
 <a href="https://github.com/esp32king/ESP32-FRP-BYPASS/raw/refs/heads/main/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
 
 ---
+## FOR ESP8266
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/raw/refs/heads/main/FOR-ESP8266/FRP-BYPASS-ESP8266.bin">FRP-BYPASS-ESP8266</a>
 
 ## 📡 Connecting
 

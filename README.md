@@ -50,10 +50,8 @@ No additional hardware is required.
 You can change the Wi-Fi name and login credentials near the top of the sketch:
 
 ```cpp
-const char* ssid = "GodxShadow";
+const char* ssid = "GodxShadow UP61";
 
-const char* LOGIN_USER = "linuxndroid";
-const char* LOGIN_PASS = "krishna";
 ```
 
 For your own deployment, **change the default credentials** before sharing or using the project.

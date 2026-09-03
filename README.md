@@ -69,7 +69,7 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a
 
 <a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/partitions.bin">partitions.bin</a> → 0x8000
 
-<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/releases/download/bypass-frp-through-esp32/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
+<a href="https://github.com/esp32king/ESP32-FRP-BYPASS/raw/refs/heads/main/FRP-BYPASS.bin">Esp32-FRP-BYPASS.bin</a> → 0x10000
 
 ---
 
